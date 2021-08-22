@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="dzgeorgy/android_device_oneplus_instantnoodle" path="device/oneplus/instantnoodle" remote="github" revision="dot11" />
+  <project name="dzgeorgy/android_device_oneplus_instantnoodle-common" path="device/oneplus/instantnoodle-common" remote="github" revision="dot11" />
+  <project name="dzgeorgy/android_device_oneplus_common" path="device/oneplus/common" remote="github" revision="dot11" />
+  <project name="dzgeorgy/proprietary_vendor_oneplus_instantnoodle" path="vendor/oneplus/instantnoodle" remote="github" revision="dot11" />
+  <project name="dzgeorgy/proprietary_vendor_oneplus_instantnoodle-common" path="vendor/oneplus/instantnoodle-common" remote="github" revision="dot11" />
+  <project name="dzgeorgy/android_kernel_oneplus_instantnoodle" path="kernel/oneplus/instantnoodle" remote="github" revision="dot11" />
+</manifest>
